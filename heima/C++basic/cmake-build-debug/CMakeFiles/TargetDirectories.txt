@@ -1,0 +1,5 @@
+D:/C++/heima/C++basic/cmake-build-debug/CMakeFiles/C__basic.dir
+D:/C++/heima/C++basic/cmake-build-debug/CMakeFiles/main_2_string.dir
+D:/C++/heima/C++basic/cmake-build-debug/CMakeFiles/main_3_cin.dir
+D:/C++/heima/C++basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/heima/C++basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
