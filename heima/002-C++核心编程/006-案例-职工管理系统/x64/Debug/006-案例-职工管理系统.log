@@ -1,0 +1,5 @@
+﻿  workManger.cpp
+D:\C++\heima\002-C++核心编程\006-案例-职工管理系统\workManger.cpp(42,23): error C2039: "m_EmpNu": 不是 "WorkerManger" 的成员
+D:\C++\heima\002-C++核心编程\006-案例-职工管理系统\WorkManger.h(10,7): message : 参见“WorkerManger”的声明
+D:\C++\heima\002-C++核心编程\006-案例-职工管理系统\workManger.cpp(42,31): error C2146: 语法错误: 缺少“;”(在标识符“m”的前面)
+D:\C++\heima\002-C++核心编程\006-案例-职工管理系统\workManger.cpp(42,31): error C2065: “m”: 未声明的标识符
